@@ -1,1 +1,1 @@
-# PRODIGY_ML_05
+Recognizing food items from images and estimating their calorie content 
